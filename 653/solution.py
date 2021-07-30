@@ -3,7 +3,6 @@ import numpy
 
 
 #start with a function that finds the furthest top-left point
-
 def areOverlapping(rect1, rect2):
      corner_x = rect1["top_left"]
      corner_y = rect2["top_left"]
