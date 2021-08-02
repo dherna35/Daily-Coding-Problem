@@ -19,7 +19,7 @@ def checkDims(ul,br):
           return True
      else:
           return False
-            
+             
 rects = [{
   "top_left": (1, 4),
   "dimensions": (3, 3) # width, height
