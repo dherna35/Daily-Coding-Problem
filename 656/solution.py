@@ -16,6 +16,8 @@ def adjacent_points(point, matrix):
 	return adj
 
 
+
+
 #change color of adjacent points, if they are of the same color
 def recolor(point, matrix, color):
 	original_color = matrix[point[0]][point[1]]
